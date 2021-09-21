@@ -1,0 +1,16 @@
+D:\Cprogramm\ThirdHomeWork\ThirdHomework\ThirdHomework\bin\Debug\net5.0\ThirdHomework.exe
+D:\Cprogramm\ThirdHomeWork\ThirdHomework\ThirdHomework\bin\Debug\net5.0\ThirdHomework.deps.json
+D:\Cprogramm\ThirdHomeWork\ThirdHomework\ThirdHomework\bin\Debug\net5.0\ThirdHomework.runtimeconfig.json
+D:\Cprogramm\ThirdHomeWork\ThirdHomework\ThirdHomework\bin\Debug\net5.0\ThirdHomework.runtimeconfig.dev.json
+D:\Cprogramm\ThirdHomeWork\ThirdHomework\ThirdHomework\bin\Debug\net5.0\ThirdHomework.dll
+D:\Cprogramm\ThirdHomeWork\ThirdHomework\ThirdHomework\bin\Debug\net5.0\ref\ThirdHomework.dll
+D:\Cprogramm\ThirdHomeWork\ThirdHomework\ThirdHomework\bin\Debug\net5.0\ThirdHomework.pdb
+D:\Cprogramm\ThirdHomeWork\ThirdHomework\ThirdHomework\obj\Debug\net5.0\ThirdHomework.csproj.AssemblyReference.cache
+D:\Cprogramm\ThirdHomeWork\ThirdHomework\ThirdHomework\obj\Debug\net5.0\ThirdHomework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cprogramm\ThirdHomeWork\ThirdHomework\ThirdHomework\obj\Debug\net5.0\ThirdHomework.AssemblyInfoInputs.cache
+D:\Cprogramm\ThirdHomeWork\ThirdHomework\ThirdHomework\obj\Debug\net5.0\ThirdHomework.AssemblyInfo.cs
+D:\Cprogramm\ThirdHomeWork\ThirdHomework\ThirdHomework\obj\Debug\net5.0\ThirdHomework.csproj.CoreCompileInputs.cache
+D:\Cprogramm\ThirdHomeWork\ThirdHomework\ThirdHomework\obj\Debug\net5.0\ThirdHomework.dll
+D:\Cprogramm\ThirdHomeWork\ThirdHomework\ThirdHomework\obj\Debug\net5.0\ref\ThirdHomework.dll
+D:\Cprogramm\ThirdHomeWork\ThirdHomework\ThirdHomework\obj\Debug\net5.0\ThirdHomework.pdb
+D:\Cprogramm\ThirdHomeWork\ThirdHomework\ThirdHomework\obj\Debug\net5.0\ThirdHomework.genruntimeconfig.cache
